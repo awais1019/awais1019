@@ -38,7 +38,7 @@ In addition to coding, I enjoy attending tech meetups and hackathons to expand m
 
 ## Education:
 - **University:** University of Engineering and Technology Lahore, Pakistan
-- **Degree:** Bachelor of Science in Computer Science
+- **Degree:** Bachelor of Science in Computer Science (still in Progress)
 - **Relevant Coursework:**
   - Data Structures & Algorithms
   - Database Systems
