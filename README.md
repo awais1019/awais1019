@@ -9,7 +9,7 @@ Balancing my studies as a computer science student with personal projects focuse
 Exploring advanced SQL techniques and app development frameworks to further my skillset.
 
 ## Looking to Collaborate On:
-Exciting projects that utilize C#, C++, database management, or app development. I'm particularly interested in [mention specific areas of interest, if any].
+Exciting projects that utilize C#, C++, database management, or app development. I'm particularly interested to gain knowledge and experience.
 
 ## Looking for Help With:
 Exploring practical applications of theoretical concepts learned in my computer science courses.
