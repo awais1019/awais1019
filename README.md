@@ -87,4 +87,4 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://raw.githubusercontent.com/awais1019/awais1019/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/awais1019/awais1019/main/dist/github-contribution-grid-snake.svg)
