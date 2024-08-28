@@ -2,7 +2,7 @@ name: Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Update daily
+    - cron: '0 0 * * *' # Runs daily
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3  # Updated to latest version
 
       - name: Generate Snake SVG
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3  # Check for the latest version
         with:
-          github_user: awais1019
-          output: dist/github-contribution-grid-snake.svg
+          github_user_name: awais1019  # Updated input parameter
+          outputs: dist/github-contribution-grid-snake.svg  # Updated input parameter
