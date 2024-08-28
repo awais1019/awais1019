@@ -11,10 +11,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Updated to latest version
+        uses: actions/checkout@v3
+
+      - name: Create dist directory
+        run: mkdir -p dist  # Creates the dist directory
 
       - name: Generate Snake SVG
-        uses: Platane/snk@v3  # Check for the latest version
+        uses: Platane/snk@v3
         with:
-          github_user_name: awais1019  # Updated input parameter
-          outputs: dist/github-contribution-grid-snake.svg  # Updated input parameter
+          github_user_name: awais1019
+          outputs: dist/github-contribution-grid-snake.svg
