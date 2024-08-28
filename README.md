@@ -1,46 +1,90 @@
 # Muhammad Awais Ashraf
-Computer Science Student | University of Engineering and Technology Lahore, Pakistan  
-(Expected Graduation: 2026)
 
-## Currently Working On:
-Balancing my studies as a computer science student with personal projects focused on C#, C++, and database design.
 
-## Currently Learning:
-Exploring advanced SQL techniques and app development frameworks to further my skillset.
+## 👨‍💻 About Me
 
-## Looking to Collaborate On:
-Exciting projects that utilize C#, C++, database management, or app development. I'm particularly interested to gain knowledge and experience.
+I am an aspiring Junior Android Developer with a strong foundation in **Kotlin**, **XML**, and **MVVM**. My background includes significant expertise in **C# .NET**, **C++**, and **SQL**, with strong skills in database design and development. I have successfully developed several projects using **WinForms** and **C#**, showcasing my abilities in desktop application development.
 
-## Looking for Help With:
-Exploring practical applications of theoretical concepts learned in my computer science courses.
+I am currently preparing to learn **Jetpack Compose** and explore **Firebase** integration, aiming to enhance my Android development skills. Expected to graduate in **2026**, I am enthusiastic about leveraging my diverse skills and experience to contribute to innovative and impactful Android development projects.
 
-## Ask Me About:
-My experiences juggling academics and personal projects as a student, or anything related to programming and database design.
+## 🚀 Currently Working On
 
-## How to Reach Me:
-Feel free to contact me through my [https://github.com/awais1019] or connect with me on [https://www.linkedin.com/in/muhammad-awais-ashraf/].
+- Personal projects in Android development using **Kotlin** and **XML**.
+- Exploring advanced techniques in **SQL** and **C# .NET** for backend development.
+- Preparing to learn **Jetpack Compose** and **Firebase** integration.
 
-## Pronouns:
-He/Him
+## 🌱 Currently Learning
 
-## ⚡ Fun Fact:
-In addition to coding, I enjoy attending tech meetups and hackathons to expand my network and learn from fellow developers!
+- **Jetpack Compose** for Android UI development.
+- **Firebase** integration for backend support in mobile applications.
 
-## Technical Skills:
-### Programming Languages:
-- C# (Proficient) - Developed WinForms applications
-- C++
-- Java (App Development experience)
-### Databases:
-- SQL Server (Proficient)
-### Version Control:
-- Git and GitHub
+## 🤝 Looking to Collaborate On
 
-## Education:
+I am eager to collaborate on exciting projects involving:
+
+- **Android Development** (Kotlin, Jetpack Compose)
+- **C#** and **.NET** desktop applications
+- **Database Management** and Development
+
+## 🧑‍🏫 Looking for Help With
+
+- Practical applications of theoretical concepts from computer science courses.
+- Advanced Android development practices and patterns.
+
+## 💬 Ask Me About
+
+- My journey into Android development and my experiences with C# and WinForms.
+- Programming in **Kotlin**, **C++**, or **Database Design**.
+
+## 📫 How to Reach Me
+
+- **GitHub**: [awais1019](https://github.com/awais1019)
+- **LinkedIn**: [Muhammad Awais Ashraf](https://www.linkedin.com/in/muhammad-awais-ashraf/)
+
+## ⚡ Fun Fact
+
+Aside from coding, I enjoy attending tech meetups and hackathons to expand my network and learn from fellow developers!
+
+## 🛠️ Technical Skills
+
+## ⚡ Fun Fact
+Aside from coding, I enjoy attending tech meetups and hackathons to expand my network and learn from fellow developers.
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- **Kotlin**: Experienced in Android development.
+- **C#**: Proficient in desktop application development using WinForms.
+- **C++**: Strong foundation in programming.
+- **Java**: Experience in app development.
+
+### Databases
+- **SQL Server**: Proficient in database design and development.
+
+### Tools & Technologies
+- **Git**: Version control.
+- **GitHub**: Code hosting and collaboration.
+- **Firebase**: Backend services for mobile apps.
+- **Jetpack Compose**: Android UI development (learning).
+
+
+
+## 🎓 Education
+
 - **University:** University of Engineering and Technology Lahore, Pakistan
-- **Degree:** Bachelor of Science in Computer Science (still in Progress)
+- **Degree:** Bachelor of Science in Computer Science (In Progress)
+- **Expected Graduation:** 2026
 - **Relevant Coursework:**
   - Data Structures & Algorithms
   - Database Systems
   - Software Engineering
 
+## 📊 GitHub Stats
+
+![Muhammad Awais Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awais1019&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awais1019&layout=compact&theme=radical)
+
+
+## 🐍 Snake Animation
+
+![Snake animation](https://raw.githubusercontent.com/awais1019/awais1019/output/github-contribution-grid-snake.svg)
