@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Clone repo
-        uses: actions/checkout@v4  # Update to the latest version
-      
+        uses: actions/checkout@v3  # Use the latest version of actions/checkout
+          
       - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v4  # Check for the latest version
+        uses: Platane/snk@v3  # Use the correct version for Platane/snk
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -34,7 +34,7 @@ jobs:
           git log --oneline || echo "Git log failed, investigating..."
 
       - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v4  # Update to the latest version
+        uses: crazy-max/ghaction-github-pages@v4  # Use the correct version for crazy-max/ghaction-github-pages
         with:
           target_branch: output
           build_dir: dist
