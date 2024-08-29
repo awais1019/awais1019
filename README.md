@@ -82,16 +82,13 @@ I am an aspiring Junior Android Developer with strong skills in **Kotlin**, **XM
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=awais1019&theme=radical&no-frame=false&no-bg=true&margin-w=2)
 
-## ⚡ Fun Fact
-
-Aside from coding, I enjoy attending tech meetups and hackathons to expand my network and learn from fellow developers!
-
 ## 🎓 Education
 
 - **University:** University of Engineering and Technology Lahore, Pakistan
 - **Degree:** Bachelor of Science in Computer Science (In Progress)
 - **Expected Graduation:** 2026
 - **Relevant Coursework:**
+  - Object Oriented Programming (OOP)
   - Data Structures & Algorithms
   - Database Systems
   - Software Engineering
