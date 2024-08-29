@@ -116,6 +116,48 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
   </tr>
 </table>
 
+## 🛠️ My Skill Set  
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+      ### Programming Languages
+
+      <div align="center">
+        <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlin-original.svg" alt="Kotlin" height="50" /></a>  
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+        <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+        <a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="Java" height="50" /></a>  
+        <a href="https://www.w3.org/html/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original.svg" alt="HTML5" height="50" /></a>  
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original.svg" alt="CSS3" height="50" /></a>  
+      </div>
+
+    </td>
+    <td valign="top" width="33%">
+
+      ### Databases
+
+      <div align="center">
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sql-server-original.svg" alt="SQL Server" height="50" /></a>  
+        <a href="https://developer.android.com/topic/libraries/architecture/room" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/room-original.svg" alt="Room" height="50" /></a>  
+      </div>
+
+    </td>
+    <td valign="top" width="33%">
+
+      ### Tools & Technologies
+
+      <div align="center">
+        <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-original.svg" alt="Git" height="50" /></a>  
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="50" /></a>  
+        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase-original.svg" alt="Firebase" height="50" /></a>  
+        <a href="https://developer.android.com/jetpack/compose" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jetpack-compose-original.svg" alt="Jetpack Compose" height="50" /></a>  
+      </div>
+
+    </td>
+  </tr>
+</table>
 
 
 ## 🐍 Snake Animation
