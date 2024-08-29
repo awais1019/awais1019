@@ -38,8 +38,30 @@ I am eager to collaborate on exciting projects involving:
 
 ## 📫 How to Reach Me
 
-- **GitHub**: [awais1019](https://github.com/awais1019)
-- **LinkedIn**: [Muhammad Awais Ashraf](https://www.linkedin.com/in/muhammad-awais-ashraf/)
+<div align="center">
+
+<a href="https://github.com/awais1019" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="50" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-awais-ashraf/" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
+</a>
+
+<a href="mailto:youremail@example.com" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="50" />
+</a>
+
+<a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="50" />
+</a>
+
+<a href="https://www.instagram.com/yourprofile/" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="50" />
+</a>
+
+</div>
+
 
 ## ⚡ Fun Fact
 
@@ -56,16 +78,6 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
   - Database Systems
   - Software Engineering
 
-## 📊 GitHub Stats
-
-![Muhammad Awais Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awais1019&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awais1019&layout=compact&theme=radical)
-## Profile Views:
-<p align="center"> 
-    <img src="https://profile-counter.glitch.me/awais1019/count.svg" />
-  Views<br>
-
-</p>
 ## Profile Statistics:
 
 | Stats                                                                                                                         | Streak                                                                                                                                                                      | Languages                                                                                                                     |
