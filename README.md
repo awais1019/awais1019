@@ -45,27 +45,6 @@ I am eager to collaborate on exciting projects involving:
 
 Aside from coding, I enjoy attending tech meetups and hackathons to expand my network and learn from fellow developers!
 
-## ⚡ Fun Fact
-Aside from coding, I enjoy attending tech meetups and hackathons to expand my network and learn from fellow developers.
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-- **Kotlin**: Experienced in Android development.
-- **C#**: Proficient in desktop application development using WinForms.
-- **C++**: Strong foundation in programming.
-- **Java**: Experience in app development.
-
-### Databases
-- **SQL Server**: Proficient in database design and development.
-
-### Tools & Technologies
-- **Git**: Version control.
-- **GitHub**: Code hosting and collaboration.
-- **Firebase**: Backend services for mobile apps.
-- **Jetpack Compose**: Android UI development (learning).
-
-
 
 ## 🎓 Education
 
@@ -92,6 +71,10 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 | Stats                                                                                                                         | Streak                                                                                                                                                                      | Languages                                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react)                            | [![GitHub Streak](https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awais1019&theme=react)               |
+
+## 🛠️ My Skill Set  
+
+<table><tr><td valign="top" width="50%">
 
 ## 🛠️ My Skill Set  
 
