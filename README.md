@@ -1,88 +1,30 @@
 # Muhammad Awais Ashraf
 
-
 ## 👨‍💻 About Me
 
-I am an aspiring Junior Android Developer with a strong foundation in **Kotlin**, **XML**, and **MVVM**. My background includes significant expertise in **C# .NET**, **C++**, and **SQL**, with strong skills in database design and development. I have successfully developed several projects using **WinForms** and **C#**, showcasing my abilities in desktop application development.
-
-I am currently preparing to learn **Jetpack Compose** and explore **Firebase** integration, aiming to enhance my Android development skills. Expected to graduate in **2026**, I am enthusiastic about leveraging my diverse skills and experience to contribute to innovative and impactful Android development projects.
+I am an aspiring Junior Android Developer with a strong foundation in **Kotlin**, **XML**, and **MVVM**. Experienced in **C# .NET**, **C++**, and **SQL**. Currently preparing to learn **Jetpack Compose** and explore **Firebase** integration. Expected to graduate in **2026**.
 
 ## 🚀 Currently Working On
 
-- Personal projects in Android development using **Kotlin** and **XML**.
-- Exploring advanced techniques in **SQL** and **C# .NET** for backend development.
-- Preparing to learn **Jetpack Compose** and **Firebase** integration.
+- Android projects with **Kotlin** and **XML**
+- Advanced **SQL** and **C# .NET** techniques
+- Learning **Jetpack Compose** and **Firebase**
 
 ## 🌱 Currently Learning
 
-- **Jetpack Compose** for Android UI development.
-- **Firebase** integration for backend support in mobile applications.
+- **Jetpack Compose**
+- **Firebase**
 
 ## 🤝 Looking to Collaborate On
 
-I am eager to collaborate on exciting projects involving:
-
 - **Android Development** (Kotlin, Jetpack Compose)
-- **C#** and **.NET** desktop applications
-- **Database Management** and Development
-
-## 🧑‍🏫 Looking for Help With
-
-- Practical applications of theoretical concepts from computer science courses.
-- Advanced Android development practices and patterns.
+- **C#** and **.NET** applications
+- **Database Management**
 
 ## 💬 Ask Me About
 
-- My journey into Android development and my experiences with C# and WinForms.
-- Programming in **Kotlin**, **C++**, or **Database Design**.
-
-## 📫 How to Reach Me
-
-<div align="center">
-
-<a href="https://github.com/awais1019" target="_blank">
-    <img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="50" />
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-awais-ashraf/" target="_blank">
-    <img style="margin: 10px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
-</a>
-
-<a href="mailto:youremail@example.com" target="_blank">
-    <img style="margin: 10px" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="50" />
-</a>
-
-<a href="https://www.facebook.com/yourprofile" target="_blank">
-    <img style="margin: 10px" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="50" />
-</a>
-
-<a href="https://www.instagram.com/yourprofile/" target="_blank">
-    <img style="margin: 10px" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="50" />
-</a>
-
-</div>
-
-
-## ⚡ Fun Fact
-
-Aside from coding, I enjoy attending tech meetups and hackathons to expand my network and learn from fellow developers!
-
-
-## 🎓 Education
-
-- **University:** University of Engineering and Technology Lahore, Pakistan
-- **Degree:** Bachelor of Science in Computer Science (In Progress)
-- **Expected Graduation:** 2026
-- **Relevant Coursework:**
-  - Data Structures & Algorithms
-  - Database Systems
-  - Software Engineering
-
-## Profile Statistics:
-
-| Stats                                                                                                                         | Streak                                                                                                                                                                      | Languages                                                                                                                     |
-|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react)                            | [![GitHub Streak](https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awais1019&theme=react)               |
+- Android development and C# experiences
+- **Kotlin**, **C++**, or **Database Design**
 
 ## 🛠️ My Skill Set  
 
@@ -113,9 +55,45 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 </td>
 </tr></table>
 
+## 📫 How to Reach Me
 
+<div align="center">
 
+<a href="https://github.com/awais1019" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="50" />
+</a>
 
+<a href="https://www.linkedin.com/in/muhammad-awais-ashraf/" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
+</a>
+
+<a href="mailto:youremail@example.com" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="50" />
+</a>
+
+<a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="50" />
+</a>
+
+<a href="https://www.instagram.com/yourprofile/" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="50" />
+</a>
+
+</div>
+
+## 📊 Profile Statistics
+
+<div align="center">
+
+<a href="https://github.com/awais1019" target="_blank">
+    <img style="margin: 10px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react" alt="Stats" height="50" />
+</a>
+
+<a href="https://github.com/awais1019" target="_blank">
+    <img style="margin: 10px" src="https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888" alt="Streak" height="50" />
+</a>
+
+</div>
 
 ## 🐍 Snake Animation
 
