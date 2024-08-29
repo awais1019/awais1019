@@ -72,7 +72,6 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 |-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react)                            | [![GitHub Streak](https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awais1019&theme=react)               |
 
-
 ## 🛠️ My Skill Set  
 
 <table><tr><td valign="top" width="50%">
@@ -80,12 +79,10 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 ### Programming Languages  
 
 <div align="center">  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="CSS3" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="50" /></a>  
+<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" height="50" /></a>  
+<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/java.svg" alt="Java" height="50" /></a>  
 </div>
 
 </td>
@@ -95,16 +92,15 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 ### Tools & Technologies  
 
 <div align="center">  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/firebase/firebase-original.svg" alt="Firebase" height="50" /></a>  
-<a href="https://developer.android.com/jetpack/compose" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="Jetpack Compose" height="50" /></a>  
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-original.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-original.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/git.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/github.svg" alt="GitHub" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/firebase.svg" alt="Firebase" height="50" /></a>  
+<a href="https://developer.android.com/jetpack/compose" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/android.svg" alt="Jetpack Compose" height="50" /></a>  
 </div>
 
 </td>
 </tr></table>
+
 
 
 
