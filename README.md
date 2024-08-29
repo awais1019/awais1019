@@ -45,8 +45,6 @@ I am eager to collaborate on exciting projects involving:
 
 Aside from coding, I enjoy attending tech meetups and hackathons to expand my network and learn from fellow developers!
 
-## 🛠️ Technical Skills
-
 ## ⚡ Fun Fact
 Aside from coding, I enjoy attending tech meetups and hackathons to expand my network and learn from fellow developers.
 
