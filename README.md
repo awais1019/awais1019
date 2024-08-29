@@ -87,7 +87,18 @@ I am eager to collaborate on projects involving:
 
 | Stats                                                                                                                         | Streak                                                                                                                                                                      | Languages                                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react)                            | [![GitHub Streak](https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awais1019&theme=react)               |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react)                            | [![GitHub Streak](https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=ffffff)](https://git.io/streak-stats) |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awais1019&layout=compact&theme=react)                                 |
+
+
+## Profile Views:
+<p align="center"> 
+    <img src="https://profile-counter.glitch.me/awais1019/count.svg" />
+  Views<br>
+  
+</p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=awais1019&theme=radical&no-frame=false&no-bg=true&margin-w=2)
 
 ## ⚡ Fun Fact
 
