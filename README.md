@@ -81,7 +81,12 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 
 ![Muhammad Awais Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awais1019&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awais1019&layout=compact&theme=radical)
+## Profile Views:
+<p align="center"> 
+    <img src="https://profile-counter.glitch.me/awais1019/count.svg" />
+  Views<br>
 
+</p>
 
 ## 🐍 Snake Animation
 
