@@ -103,7 +103,7 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
     </td>
     <td valign="top" width="25%">
 
-      ### Tools
+      ### Tools & Technologies
 
       <div align="center">
         <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-original.svg" alt="Git" height="50" /></a>  
@@ -115,7 +115,6 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
     </td>
   </tr>
 </table>
-
 
 
 
