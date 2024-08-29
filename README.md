@@ -73,6 +73,8 @@ I am an aspiring Junior Android Developer with strong skills in **Kotlin**, **XM
 |-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react)                            | [![GitHub Streak](https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=ffffff)](https://git.io/streak-stats) |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awais1019&layout=compact&theme=react)                                 |
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=awais1019&theme=radical&no-frame=false&no-bg=true&margin-w=2)
 
 ## Profile Views:
 <p align="center"> 
@@ -80,10 +82,6 @@ I am an aspiring Junior Android Developer with strong skills in **Kotlin**, **XM
   Views<br>
   
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=awais1019&theme=radical&no-frame=false&no-bg=true&margin-w=2)
-
 ## 🎓 Education
 
 - **University:** University of Engineering and Technology Lahore, Pakistan
@@ -95,6 +93,10 @@ I am an aspiring Junior Android Developer with strong skills in **Kotlin**, **XM
   - Database Systems
   - Software Engineering
 
-## 🐍 Snake Animation
-
-![Snake animation](https://raw.githubusercontent.com/awais1019/awais1019/main/dist/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/awais1019/awais1019/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
