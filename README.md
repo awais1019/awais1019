@@ -72,9 +72,7 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 |-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react)                            | [![GitHub Streak](https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awais1019&theme=react)               |
 
-## 🛠️ My Skill Set  
 
-<table><tr><td valign="top" width="50%">
 
 ## 🛠️ My Skill Set  
 
@@ -87,6 +85,8 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" height="50" /></a>  
 <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="50" /></a>  
 <a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white" alt="Java" height="50" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="50" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="50" /></a>  
 </div>
 
 </td>
@@ -116,6 +116,7 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 
 </td>
 </tr></table>
+
 
 
 
