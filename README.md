@@ -73,7 +73,7 @@ I am eager to collaborate on projects involving:
     <img style="margin: 10px" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="50" />
 </a>
 
-<a href="https://www.instagram.com/yourprofile/" target="_blank">
+<a href="https://www.instagram.com/awais.ashraf.54922169" target="_blank">
     <img style="margin: 10px" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="50" />
 </a>
 
