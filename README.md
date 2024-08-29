@@ -23,10 +23,6 @@ I am eager to collaborate on projects involving:
 - **C#** and **.NET** desktop applications
 - **Database Management** and Development
 
-## 💬 Ask Me About
-
-- My journey in Android development and experiences with C# and WinForms.
-- **Kotlin**, **C++**, or **Database Design**.
 
 ## 🛠️ My Skill Set  
 
@@ -69,11 +65,11 @@ I am eager to collaborate on projects involving:
     <img style="margin: 10px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
 </a>
 
-<a href="mailto:youremail@example.com" target="_blank">
+<a href="mailto:mhawais341@gmail.com" target="_blank">
     <img style="margin: 10px" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="50" />
 </a>
 
-<a href="https://www.facebook.com/yourprofile" target="_blank">
+<a href="https://www.facebook.com/awais.ashraf.54922169" target="_blank">
     <img style="margin: 10px" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="50" />
 </a>
 
