@@ -6,9 +6,11 @@ I am an aspiring Junior Android Developer with strong skills in **Kotlin**, **XM
 
 ## 🚀 Current Focus & Collaboration
 
-* 🔭 Working on Android projects with **Kotlin** and **XML**, and exploring **SQL** and **C# .NET**. Preparing to learn **Jetpack Compose** and **Firebase**.
-* 🌱 Open to collaborating on **Android Development** (Kotlin, Jetpack Compose), **C#** desktop apps, and **Database Management**.
+* 🔭 Working on Android projects with **Kotlin** and **XML**, and exploring **SQL** and **C# .NET**.
+* 🌱 Preparing to learn **Jetpack Compose** and **Firebase**.
+* 🌟 Open to collaborating on **Android Development** (Kotlin, Jetpack Compose), **C#** desktop apps, and **Database Management**.
 * ❓ Ask me about **Android Development**, **C#**, **Kotlin**, **C++**, and **Database Design**.
+
 
 ## 🛠️ My Skill Set  
 
