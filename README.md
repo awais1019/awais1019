@@ -4,25 +4,11 @@
 
 I am an aspiring Junior Android Developer with strong skills in **Kotlin**, **XML**, and **MVVM**. My background includes expertise in **C# .NET**, **C++**, and **SQL**, and I have developed several projects using **WinForms** and **C#**. I'm preparing to learn **Jetpack Compose** and **Firebase**, with an expected graduation in **2026**.
 
-## 🚀 Currently Working On
+## 🚀 Current Focus & Collaboration
 
-- Personal projects in Android development using **Kotlin** and **XML**.
-- Exploring advanced techniques in **SQL** and **C# .NET**.
-- Preparing to learn **Jetpack Compose** and **Firebase**.
-
-## 🌱 Currently Learning
-
-- **Jetpack Compose** for Android UI development.
-- **Firebase** integration for backend support.
-
-## 🤝 Looking to Collaborate On
-
-I am eager to collaborate on projects involving:
-
-- **Android Development** (Kotlin, Jetpack Compose)
-- **C#** and **.NET** desktop applications
-- **Database Management** and Development
-
+* 🔭 Working on Android projects with **Kotlin** and **XML**, and exploring **SQL** and **C# .NET**. Preparing to learn **Jetpack Compose** and **Firebase**.
+* 🌱 Open to collaborating on **Android Development** (Kotlin, Jetpack Compose), **C#** desktop apps, and **Database Management**.
+* ❓ Ask me about **Android Development**, **C#**, **Kotlin**, **C++**, and **Database Design**.
 
 ## 🛠️ My Skill Set  
 
