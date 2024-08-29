@@ -79,10 +79,10 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 ### Programming Languages  
 
 <div align="center">  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/csharp.svg" alt="C#" height="50" /></a>  
-<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" height="50" /></a>  
-<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/java.svg" alt="Java" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" height="50" /></a>  
+<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="50" /></a>  
+<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white" alt="Java" height="50" /></a>  
 </div>
 
 </td>
@@ -92,10 +92,10 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 ### Tools & Technologies  
 
 <div align="center">  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/git.svg" alt="Git" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/github.svg" alt="GitHub" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/firebase.svg" alt="Firebase" height="50" /></a>  
-<a href="https://developer.android.com/jetpack/compose" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/android.svg" alt="Jetpack Compose" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" height="50" /></a>  
+<a href="https://developer.android.com/jetpack/compose" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Jetpack%20Compose-03DAC5?style=flat&logo=android&logoColor=white" alt="Jetpack Compose" height="50" /></a>  
 </div>
 
 </td>
