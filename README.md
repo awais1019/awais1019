@@ -88,9 +88,11 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 
 </p>
 ## Profile Statistics:
-Stats|Streak|Languages
-|---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react)|[![GitHub Streak](https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awais1019&theme=react)|
+
+| Stats                                                                                                                         | Streak                                                                                                                                                                      | Languages                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awais1019&theme=react)                            | [![GitHub Streak](https://streak-stats.demolab.com/?user=awais1019&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awais1019&theme=react)               |
+
 
 ## 🐍 Snake Animation
 
