@@ -81,7 +81,7 @@ Aside from coding, I enjoy attending tech meetups and hackathons to expand my ne
 ### Programming Languages  
 
 <div align="center">  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Kotlin-7F52FF"alt="Kotlin" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>    
 <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="50" /></a>  
 <a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white" alt="Java" height="50" /></a>  
