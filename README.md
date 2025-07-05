@@ -82,8 +82,8 @@ I am an aspiring Junior Android Developer with strong skills in **Kotlin**, **XM
   Views<br>
   
 </p>
-** 🎓 Education**
 
+##🎓 Education:
 - **University:** University of Engineering and Technology Lahore, Pakistan
 - **Degree:** Bachelor of Science in Computer Science (In Progress)
 - **Expected Graduation:** 2026
