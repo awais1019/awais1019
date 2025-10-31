@@ -32,24 +32,38 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" height="35" /></a>  
 <a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-ShadCN%2FUI-18181B?style=flat&logo=react&logoColor=white" height="35" /></a>  
 <a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Zod-3066BE?style=flat&logo=zod&logoColor=white" height="35" /></a>  
+<a href="https://developer.android.com/jetpack" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Jetpack-34A853?style=flat&logo=android&logoColor=white" height="35" /></a>  
 </div>
 
 </td>
 
 <td valign="top" width="50%">
 
-### 🧠 Backend & Tools
+### ⚙️ Backend & Tools
 
 <div align="center">  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" height="35" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" height="35" /></a>  
+<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white" height="35" /></a>  
+<a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="35" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="35" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="35" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="35" /></a>  
 </div>
 
 </td>
 </tr></table>
+
+---
+
+### 🧠 Languages
+
+<div align="center">  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="35" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="35" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="35" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" height="35" /></a>  
+<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="35" /></a>  
+</div>
 
 ### Tools & Technologies  
 
