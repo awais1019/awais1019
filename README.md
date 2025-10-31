@@ -28,7 +28,7 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="45" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="100" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="45" />
