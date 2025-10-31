@@ -9,7 +9,7 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 🎓 *Expected Graduation: 2026*
 
 
----
+
 
 ## 🚀 Current Focus & Collaboration
 
@@ -22,7 +22,7 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 
 ## 🛠️ My Tech Stack  
 
----
+
 
 ### 🧠 Languages    
 
