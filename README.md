@@ -27,7 +27,7 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 ### 🧠 Languages  
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="120">
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="100" width="100" />
     </td>
     <td align="center">
