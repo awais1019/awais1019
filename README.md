@@ -26,7 +26,7 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 
 ### 🧠 Languages  
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 100px;">
 
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="60" />
