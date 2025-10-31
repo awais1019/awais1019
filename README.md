@@ -1,15 +1,23 @@
 # Muhammad Awais Ashraf
 
-## 👨‍💻 About Me
+I’m an aspiring **Full-Stack Web Developer** passionate about building fast, modern, and visually appealing web applications.  
+After starting with Android development, I’ve transitioned into the **JavaScript ecosystem**, focusing on **React**, **Next.js**, and **Tailwind CSS**.  
 
-I am an aspiring Junior Android Developer with strong skills in **Kotlin**, **XML**, and **MVVM**. My background includes expertise in **C# .NET**, **C++**, and **SQL**, and I have developed several projects using **WinForms** and **C#**. I'm preparing to learn **Jetpack Compose** and **Firebase**, with an expected graduation in **2026**.
+I have a strong foundation in **C#**, **C++**, and **SQL**, which helps me structure efficient and reliable applications.  
+Right now, I’m expanding my skills with **modern frontend frameworks** and **full-stack tools** like **Prisma**, **Zod**, and **ShadCN/UI**.  
+
+🎓 *Expected Graduation: 2026*
+
+
+---
 
 ## 🚀 Current Focus & Collaboration
 
-* 🔭 Working on Android projects with **Kotlin** and **XML**, and exploring **SQL** and **C# .NET**.
-* 🌱 Preparing to learn **Jetpack Compose** and **Firebase**.
-* 🌟 Open to collaborating on **Android Development** (Kotlin, Jetpack Compose), **C#** desktop apps, and **Database Management**.
-* ❓ Ask me about **Android Development**, **C#**, **Kotlin**, **C++**, and **Database Design**.
+- 🔭 Building projects with **Next.js**, **React**, **Tailwind CSS**, and **Prisma**.  
+- 🌱 Learning and applying **Zod**, **ShadCN/UI**, and advanced **TypeScript** patterns.  
+- 🧩 Exploring **backend frameworks** — with a plan to learn **NestJS** next.  
+- 🌟 Open to collaborating on **web apps**, **frontend development**, and **UI design systems**.  
+- ❓ Ask me about **React**, **Next.js**, **Prisma**, **Tailwind**, or **modern JavaScript development**.
 
 
 ## 🛠️ My Skill Set  
