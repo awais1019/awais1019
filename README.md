@@ -79,7 +79,7 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="35" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td align="top" width="50%">
 
 ### 🧰 Tools & Technologies  
 
