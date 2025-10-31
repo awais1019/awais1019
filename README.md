@@ -99,7 +99,7 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 <div align="center">
 
 <a href="https://github.com/awais1019" target="blank">
-    <img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"  height="35" />
+    <img style="margin: 10px size: 30px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"  height="35" />
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-awais-ashraf/" target="blank">
