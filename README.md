@@ -22,6 +22,22 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 
 ## 🛠️ My Tech Stack  
 
+---
+
+### 🧠 Languages  
+
+<div align="center">  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="35" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="35" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="35" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white" height="35" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" height="35" /></a>  
+<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="35" /></a>  
+<a href="https://www.w3schools.com/sql/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white" height="35" /></a>  
+</div>
+
+---
+
 <table><tr><td valign="top" width="50%">
 
 ### 💻 Frontend
@@ -30,52 +46,53 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="35" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="35" /></a>  
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" height="35" /></a>  
-<a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-ShadCN%2FUI-18181B?style=flat&logo=react&logoColor=white" height="35" /></a>  
-<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Zod-3066BE?style=flat&logo=zod&logoColor=white" height="35" /></a>  
 <a href="https://developer.android.com/jetpack" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Jetpack-34A853?style=flat&logo=android&logoColor=white" height="35" /></a>  
+<a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-ShadCN%2FUI-18181B?style=flat&logo=react&logoColor=white" height="35" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="35" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="35" /></a>  
 </div>
 
-</td>
+</td><td valign="top" width="50%">
 
-<td valign="top" width="50%">
-
-### ⚙️ Backend & Tools
+### ⚙️ Backend
 
 <div align="center">  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" height="35" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" height="35" /></a>  
-<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white" height="35" /></a>  
-<a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="35" /></a>  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="35" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="35" /></a>  
+<a href="https://nextjs.org/docs/app/building-your-application/routing/api-routes" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Next.js%20API-000000?style=flat&logo=nextdotjs&logoColor=white" height="35" /></a>  
+<a href="https://dagger.dev/hilt/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Hilt-34A853?style=flat&logo=android&logoColor=white" height="35" /></a>  
+<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Zod-3066BE?style=flat&logo=zod&logoColor=white" height="35" /></a>  
+<a href="https://jwt.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="35" /></a>  
+<a href="https://authjs.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Auth.js-3B82F6?style=flat&logo=nextauth&logoColor=white" height="35" /></a>  
 </div>
 
-</td>
-</tr></table>
+</td></tr></table>
 
 ---
 
-### 🧠 Languages
+<table><tr><td valign="top" width="50%">
+
+### 🗄️ Databases  
 
 <div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="35" /></a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="35" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="35" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" height="35" /></a>  
-<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="35" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" height="35" /></a>  
+<a href="https://developer.android.com/training/data-storage/room" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Room%20DB-34A853?style=flat&logo=android&logoColor=white" height="35" /></a>  
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="35" /></a>  
 </div>
 
-### Tools & Technologies  
+</td><td valign="top" width="50%">
+
+### 🧰 Tools & Technologies  
 
 <div align="center">  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="35" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="35" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" height="35" /></a>  
-<a href="https://developer.android.com/jetpack/compose" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Jetpack%20Compose-03DAC5?style=flat&logo=android&logoColor=white" alt="Jetpack Compose" height="35" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="35" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="35" /></a>  
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="35" /></a>  
+<a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" height="35" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="35" /></a>  
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" height="35" /></a>  
 </div>
 
-</td>
-</tr></table>
+</td></tr></table>
+
 
 ## 📫 How to Reach Me
 
