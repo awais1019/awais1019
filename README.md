@@ -25,41 +25,34 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 ---
 
 ### 🧠 Languages  
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white" height="45" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white" height="45" />
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 100px;">
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="60" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="60" />
-  </a>
-
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="60" />
-  </a>
-
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" height="60" />
-  </a>
-
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="60" />
-  </a>
-
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="60" />
-  </a>
-
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" height="60" />
-  </a>
-
-</div>
-
-
----
 
 <table><tr><td valign="top" width="50%">
 
