@@ -31,7 +31,7 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="35" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" height="35" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white" height="35" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" height="35" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" height="100" /></a>  
 <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="35" /></a>  
 <a href="https://www.w3schools.com/sql/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white" height="35" /></a>  
 </div>
