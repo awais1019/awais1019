@@ -1,10 +1,11 @@
 # Muhammad Awais Ashraf
 
 I’m an aspiring **Full-Stack Web Developer** passionate about building fast, modern, and visually appealing web applications.  
-After starting with Android development, I’ve transitioned into the **JavaScript ecosystem**, focusing on **React**, **Next.js**, and **Tailwind CSS**.  
+After starting with **Android development**, I’ve transitioned into the **JavaScript ecosystem**, focusing on **React**, **Next.js**, and **Tailwind CSS**.  
 
 I have a strong foundation in **C#**, **C++**, and **SQL**, which helps me structure efficient and reliable applications.  
-Right now, I’m expanding my skills with **modern frontend frameworks** and **full-stack tools** like **Prisma**, **Zod**, and **ShadCN/UI**.  
+Right now, I’m expanding my skills with **modern frontend frameworks** and exploring **full-stack tools** like **Next.js**, **Prisma**, and **ShadCN/UI** to build scalable web apps.
+ 
 
 🎓 *Expected Graduation: 2026*
 
@@ -130,10 +131,14 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=awais1019&theme=radical&no-frame=false&no-bg=true&margin-w=2)
 
-## Profile Views:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awais1019&label=Profile%20views&color=0e75b6&style=flat" alt="awais1019" />
+  <a href="https://wakatime.com/@f4afa4c5-49ce-4379-a1fc-f61356b58715">
+    <img src="https://wakatime.com/badge/user/f4afa4c5-49ce-4379-a1fc-f61356b58715.svg?style=flat-square" alt="Total time coded since joining WakaTime" />
+  </a>
+  <br>
 </p>
+
+
 ## 🎓 Education:
 
 - **University:** University of Engineering and Technology Lahore, Pakistan
