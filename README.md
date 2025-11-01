@@ -131,12 +131,11 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 ![](https://github-profile-trophy.vercel.app/?username=awais1019&theme=radical&no-frame=false&no-bg=true&margin-w=2)
 
 ## Profile Views:
-<p align="center"> 
-    <img src="https://profile-counter.glitch.me/awais1019/count.svg" />
-  Views<br>
-  
+<p align="center">
+  <img src="https://hits.sh/github.com/awais1019.svg?style=flat-square&label=Views&color=blue" />
+  <br>Views
 </p>
-##🎓 Education:
+## 🎓 Education:
 
 - **University:** University of Engineering and Technology Lahore, Pakistan
 - **Degree:** Bachelor of Science in Computer Science (In Progress)
