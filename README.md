@@ -132,8 +132,7 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and **f
 
 ## Profile Views:
 <p align="center">
-  <img src="https://hits.sh/github.com/awais1019.svg?style=flat-square&label=Views&color=blue" />
-  <br>Views
+  <img src="https://komarev.com/ghpvc/?username=awais1019&label=Profile%20views&color=0e75b6&style=flat" alt="awais1019" />
 </p>
 ## 🎓 Education:
 
