@@ -32,7 +32,6 @@ Right now, I’m expanding my skills with **modern frontend frameworks** and exp
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="35" />
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="35" />
   <br/>
-  <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=database&logoColor=white" height="35" />
