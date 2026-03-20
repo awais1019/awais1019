@@ -1,6 +1,6 @@
 # Muhammad Awais Ashraf
 
-I'm a **Full-Stack Web Developer** with a background in Android development, now focused on building scalable web applications across the full stack — from React and Next.js on the frontend to NestJS and PostgreSQL on the backend. I've shipped real projects including a pet management SaaS and an events platform, and I'm currently completing my Final Year Project at UET Lahore.
+I'm a **Full-Stack Web Developer** with a background in Android development, now focused on building scalable web applications across the full stack — from React and Next.js on the frontend to NestJS and PostgreSQL on the backend. I've shipped real projects including a pet management and an events platform, and I'm currently completing my Final Year Project at UET Lahore.
 
 🎓 *Expected Graduation: 2026*
 
