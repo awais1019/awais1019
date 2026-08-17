@@ -85,6 +85,7 @@ A full-stack pet management SaaS with authenticated CRUD, Stripe-gated premium s
 - CRUD workflows via Next.js Server Actions and Prisma, with a reusable shadcn/ui component library
 - Stripe subscription payments verified server-side through webhook signatures, not client-reported state
 - Solved a Next.js 15 edge middleware bundle-size limit with a two-layer auth check — lightweight JWT at the edge, full NextAuth v5 session validation in-app
+- Found and fixed a real production bug: a gap in the middleware's authorization logic let one specific request state fall through to an implicit `false`, crashing a live Server Action instead of redirecting
 
 **Stack:** Next.js 15 · TypeScript · Prisma · NextAuth v5 · Stripe · Tailwind CSS
 
@@ -98,6 +99,7 @@ A server-rendered event discovery platform with dynamic city-based routing.
 - Server Components for Prisma-backed, paginated event listings — no separate API route
 - Zod-validated data boundaries between the database and UI
 - Responsive interface with Framer Motion page transitions
+- Came back a year after shipping to patch a critical Next.js RCE (React Flight protocol) plus several SSRF/DoS/cache-poisoning CVEs — dependency maintenance, not just initial delivery
 
 **Stack:** Next.js 15 · TypeScript · Prisma · Zod · Tailwind CSS · Framer Motion
 
