@@ -131,12 +131,18 @@ A URL management, analytics, and monetization platform built as a capstone proje
 
 ## Engineering Philosophy
 
-I start by understanding the data and the API contract, then build the interface around it — not the other way around. What I prioritize:
+I want to understand why something works before I worry about how to use it. Frameworks and tools change quickly, but the mental models behind databases, networking, architecture, concurrency, and distributed systems stay useful.
 
-- **Clarity over cleverness** — code that still makes sense six months later
-- **Consistent API design** — predictable, well-structured REST endpoints
-- **Data integrity** — solid schema design before writing business logic, and transactional writes wherever a partial update could corrupt state
-- **Iterative delivery** — shipping small, tested increments over big-bang releases
+When I build something, I try to understand the trade-offs behind the design — what happens when it fails, where the boundaries should be, and how the system behaves beyond the happy path. I use AI to move faster, not as a substitute for understanding the code or the decisions behind it.
+
+- Understand why before learning how
+- Build mental models, not just framework knowledge
+- Think about failure, not only the happy path
+- Choose architecture around real constraints
+- Keep systems understandable as they grow
+- Use AI to accelerate engineering, not replace it
+- Learn through building and debugging
+- Prefer depth over collecting tools
 
 ---
 
